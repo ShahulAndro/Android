@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model
+END
+WeatherForecast.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/WeatherForecast.class
+END
+WeatherCondition.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/WeatherCondition.class
+END
+YahooWOEID.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/YahooWOEID.class
+END
+WindInformation.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/WindInformation.class
+END
+GeoMojoWOEID.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/GeoMojoWOEID.class
+END
+Atmosphere.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/Atmosphere.class
+END
+WeatherLocation.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/WeatherLocation.class
+END
+NeighBouringCounties.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/NeighBouringCounties.class
+END
+UnitsMeasurements.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/UnitsMeasurements.class
+END
+WeatherReport.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/WeatherReport.class
+END
+Astronomy.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/model/Astronomy.class
+END

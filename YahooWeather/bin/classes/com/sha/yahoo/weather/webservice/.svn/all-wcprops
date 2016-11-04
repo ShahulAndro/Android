@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/webservice
+END
+WebserviceRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/webservice/WebserviceRequest.class
+END
+YahooWeatherService.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/webservice/YahooWeatherService.class
+END
+NeighborCountriesFinderService.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/webservice/NeighborCountriesFinderService.class
+END
+DOMParserRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/bin/classes/com/sha/yahoo/weather/webservice/DOMParserRequest.class
+END

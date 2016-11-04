@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model
+END
+WeatherForecast.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/WeatherForecast.java
+END
+WeatherCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/WeatherCondition.java
+END
+YahooWOEID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/YahooWOEID.java
+END
+WindInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/WindInformation.java
+END
+Atmosphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/Atmosphere.java
+END
+GeoMojoWOEID.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/GeoMojoWOEID.java
+END
+WeatherLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/WeatherLocation.java
+END
+NeighBouringCounties.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/NeighBouringCounties.java
+END
+UnitsMeasurements.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/UnitsMeasurements.java
+END
+Astronomy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/Astronomy.java
+END
+WeatherReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/ShahulsYahooWeather/src/com/sha/yahoo/weather/model/WeatherReport.java
+END
