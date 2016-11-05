@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    />
+<SeekBar
+	android:id="@+id/xsensitive"   
+	android:layout_width="fill_parent"   
+	android:layout_height="wrap_content"   
+	android:max="100"  
+	/>  
+<TextView
+	android:id="@+id/x"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<TextView
+	android:id="@+id/xrate"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<TextView
+	android:id="@+id/xstate"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<SeekBar
+	android:id="@+id/ysensitive"   
+	android:layout_width="fill_parent"   
+	android:layout_height="wrap_content"   
+	android:max="100"  
+	/>  
+<TextView
+	android:id="@+id/y"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<TextView
+	android:id="@+id/yrate"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<TextView
+	android:id="@+id/ystate"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<SeekBar
+	android:id="@+id/zsensitive"   
+	android:layout_width="fill_parent"   
+	android:layout_height="wrap_content"   
+	android:max="100"  
+	/>  
+<TextView
+	android:id="@+id/z"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<TextView
+	android:id="@+id/zrate"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+<TextView
+	android:id="@+id/zstate"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	/>
+</LinearLayout>
